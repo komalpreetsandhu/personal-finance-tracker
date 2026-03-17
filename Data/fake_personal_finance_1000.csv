@@ -1,0 +1,1001 @@
+Date,Category,Description,Amount
+2026-02-21,Education,Online Course,65.52
+2026-01-15,Utilities,Electricity,186.62
+2026-03-13,Entertainment,Movie,77.86
+2026-03-02,Utilities,Water,170.74
+2026-01-21,Utilities,Internet,52.7
+2026-03-24,Utilities,Electricity,194.42
+2026-03-28,Entertainment,Video Game,75.4
+2026-03-16,Misc,Other,33.95
+2026-03-16,Dining Out,Starbucks,68.06
+2026-03-29,Education,Online Course,63.49
+2026-01-24,Misc,Donation,87.91
+2026-01-03,Education,Online Course,31.39
+2026-01-22,Transport,Uber,36.67
+2026-02-22,Healthcare,Pharmacy,85.7
+2026-01-02,Healthcare,Doctor,23.51
+2026-03-29,Clothing,H&M,59.75
+2026-01-30,Healthcare,Doctor,11.74
+2026-02-07,Entertainment,Video Game,52.19
+2026-01-02,Subscriptions,Gym,9.52
+2026-03-05,Groceries,Whole Foods,97.79
+2026-03-01,Clothing,Zara,69.99
+2026-01-21,Groceries,Whole Foods,58.99
+2026-02-02,Education,Books,151.21
+2026-03-17,Groceries,Whole Foods,26.26
+2026-02-27,Groceries,Whole Foods,137.38
+2026-01-22,Clothing,Uniqlo,172.67
+2026-03-30,Transport,Uber,35.05
+2026-02-18,Utilities,Water,138.98
+2026-02-28,Healthcare,Pharmacy,134.92
+2026-02-11,Healthcare,Doctor,35.95
+2026-03-01,Entertainment,Concert,17.11
+2026-03-21,Clothing,Uniqlo,59.31
+2026-01-15,Entertainment,Concert,81.51
+2026-03-03,Subscriptions,Netflix,5.52
+2026-03-03,Subscriptions,Netflix,13.74
+2026-02-16,Entertainment,Concert,99.59
+2026-03-03,Clothing,Uniqlo,173.3
+2026-02-20,Entertainment,Video Game,56.93
+2026-02-24,Healthcare,Pharmacy,18.91
+2026-03-05,Misc,Other,83.98
+2026-01-03,Dining Out,Starbucks,51.93
+2026-02-20,Groceries,Target,34.94
+2026-01-07,Dining Out,McDonalds,16.57
+2026-01-21,Clothing,Zara,183.28
+2026-03-14,Dining Out,McDonalds,56.84
+2026-02-08,Subscriptions,Spotify,17.44
+2026-01-18,Education,Books,177.01
+2026-01-04,Groceries,Whole Foods,94.33
+2026-03-30,Utilities,Water,127.62
+2026-03-01,Clothing,Zara,94.63
+2026-01-14,Groceries,Walmart,61.2
+2026-01-09,Dining Out,McDonalds,40.42
+2026-03-31,Subscriptions,Spotify,16.61
+2026-02-22,Transport,Uber,32.09
+2026-01-02,Misc,Donation,89.79
+2026-03-25,Utilities,Internet,116.51
+2026-03-01,Misc,Gift,62.67
+2026-03-12,Groceries,Target,102.07
+2026-02-13,Subscriptions,Gym,13.88
+2026-01-08,Subscriptions,Gym,15.54
+2026-02-16,Dining Out,Starbucks,26.62
+2026-02-04,Healthcare,Pharmacy,81.73
+2026-03-19,Dining Out,Starbucks,17.3
+2026-03-22,Healthcare,Dentist,63.83
+2026-02-05,Healthcare,Doctor,78.27
+2026-02-19,Utilities,Electricity,147.83
+2026-01-04,Dining Out,Local Restaurant,76.54
+2026-01-02,Transport,Lyft,32.03
+2026-01-06,Entertainment,Movie,76.92
+2026-02-23,Entertainment,Video Game,55.56
+2026-01-04,Dining Out,McDonalds,54.39
+2026-02-23,Dining Out,Local Restaurant,14.97
+2026-03-04,Misc,Donation,29.17
+2026-01-18,Utilities,Electricity,104.28
+2026-03-31,Dining Out,Local Restaurant,43.07
+2026-02-13,Misc,Gift,9.34
+2026-02-03,Healthcare,Pharmacy,29.6
+2026-03-15,Subscriptions,Spotify,9.15
+2026-03-03,Subscriptions,Netflix,19.57
+2026-01-14,Healthcare,Dentist,56.39
+2026-02-17,Clothing,Uniqlo,104.18
+2026-01-15,Misc,Other,23.63
+2026-03-13,Misc,Other,63.02
+2026-03-19,Healthcare,Doctor,49.3
+2026-03-28,Transport,Uber,14.31
+2026-03-03,Education,Online Course,108.15
+2026-02-09,Groceries,Walmart,20.72
+2026-03-26,Healthcare,Pharmacy,11.07
+2026-03-21,Dining Out,McDonalds,25.33
+2026-03-23,Dining Out,Starbucks,12.57
+2026-02-22,Utilities,Electricity,66.2
+2026-01-24,Healthcare,Doctor,57.44
+2026-01-26,Utilities,Internet,170.39
+2026-03-30,Healthcare,Dentist,90.09
+2026-03-01,Misc,Gift,53.7
+2026-02-10,Groceries,Target,58.15
+2026-01-29,Misc,Other,93.52
+2026-01-15,Education,Online Course,85.43
+2026-02-14,Subscriptions,Spotify,6.31
+2026-03-06,Entertainment,Movie,65.54
+2026-03-30,Healthcare,Dentist,25.94
+2026-03-12,Education,Books,75.59
+2026-01-09,Subscriptions,Netflix,12.61
+2026-03-29,Clothing,Uniqlo,176.73
+2026-01-01,Groceries,Whole Foods,84.16
+2026-01-08,Utilities,Water,155.34
+2026-03-29,Utilities,Internet,198.92
+2026-03-04,Misc,Donation,17.49
+2026-01-11,Dining Out,Starbucks,29.23
+2026-03-22,Subscriptions,Spotify,10.92
+2026-01-08,Clothing,Uniqlo,93.04
+2026-02-04,Education,Books,88.09
+2026-02-04,Groceries,Target,137.99
+2026-02-02,Subscriptions,Netflix,15.71
+2026-01-05,Clothing,H&M,127.46
+2026-02-10,Entertainment,Video Game,37.84
+2026-01-28,Healthcare,Pharmacy,125.33
+2026-01-07,Utilities,Electricity,193.26
+2026-03-14,Education,Supplies,166.03
+2026-03-13,Utilities,Water,50.23
+2026-01-12,Education,Books,130.92
+2026-02-03,Misc,Other,9.86
+2026-02-02,Dining Out,McDonalds,28.03
+2026-02-17,Education,Books,21.31
+2026-01-23,Utilities,Water,140.57
+2026-03-03,Misc,Gift,70.23
+2026-03-29,Education,Supplies,31.75
+2026-02-06,Entertainment,Movie,44.55
+2026-02-13,Dining Out,Starbucks,41.94
+2026-03-27,Education,Online Course,80.12
+2026-02-04,Misc,Other,16.5
+2026-03-06,Subscriptions,Spotify,11.28
+2026-02-16,Transport,Uber,38.8
+2026-03-19,Clothing,Zara,28.14
+2026-01-03,Transport,Gas Station,8.61
+2026-01-01,Transport,Lyft,20.96
+2026-01-05,Groceries,Target,142.42
+2026-03-31,Entertainment,Concert,70.17
+2026-01-14,Subscriptions,Gym,15.18
+2026-01-27,Healthcare,Doctor,60.67
+2026-01-09,Education,Online Course,122.8
+2026-03-20,Clothing,H&M,16.87
+2026-01-15,Dining Out,Local Restaurant,54.53
+2026-03-31,Subscriptions,Spotify,18.7
+2026-02-11,Utilities,Internet,141.89
+2026-03-18,Healthcare,Doctor,132.32
+2026-02-20,Groceries,Target,114.12
+2026-03-04,Groceries,Target,35.67
+2026-02-21,Subscriptions,Netflix,18.54
+2026-01-04,Misc,Gift,11.31
+2026-01-23,Transport,Uber,29.03
+2026-01-15,Utilities,Internet,71.32
+2026-02-12,Groceries,Whole Foods,21.52
+2026-01-29,Clothing,H&M,93.08
+2026-02-05,Groceries,Whole Foods,58.36
+2026-01-13,Dining Out,Starbucks,44.02
+2026-02-01,Education,Online Course,119.67
+2026-03-12,Groceries,Target,25.69
+2026-02-28,Dining Out,McDonalds,18.61
+2026-03-27,Subscriptions,Gym,13.38
+2026-01-28,Subscriptions,Netflix,10.15
+2026-03-07,Healthcare,Dentist,112.08
+2026-02-11,Groceries,Target,104.8
+2026-02-14,Clothing,H&M,171.44
+2026-03-03,Groceries,Whole Foods,110.02
+2026-02-26,Clothing,Uniqlo,94.54
+2026-01-06,Entertainment,Concert,70.57
+2026-01-28,Healthcare,Pharmacy,48.55
+2026-01-28,Entertainment,Movie,37.57
+2026-02-13,Groceries,Walmart,122.57
+2026-03-25,Healthcare,Doctor,72.5
+2026-01-30,Entertainment,Movie,81.85
+2026-03-03,Transport,Lyft,42.01
+2026-03-16,Groceries,Target,131.48
+2026-03-30,Entertainment,Concert,92.5
+2026-03-03,Transport,Gas Station,24.39
+2026-01-01,Transport,Uber,19.35
+2026-01-27,Subscriptions,Netflix,13.73
+2026-03-03,Groceries,Target,68.25
+2026-03-18,Transport,Lyft,32.05
+2026-01-03,Subscriptions,Netflix,15.58
+2026-03-11,Entertainment,Concert,71.96
+2026-03-13,Dining Out,McDonalds,36.22
+2026-01-27,Groceries,Whole Foods,41.69
+2026-01-09,Healthcare,Doctor,70.27
+2026-03-03,Clothing,H&M,41.38
+2026-02-06,Clothing,Zara,179.67
+2026-02-20,Entertainment,Movie,41.13
+2026-02-13,Misc,Gift,19.67
+2026-01-24,Misc,Donation,7.42
+2026-03-20,Entertainment,Video Game,68.12
+2026-02-28,Transport,Uber,33.66
+2026-02-01,Groceries,Walmart,64.28
+2026-03-29,Clothing,H&M,28.27
+2026-02-21,Clothing,Uniqlo,90.78
+2026-03-03,Transport,Gas Station,19.0
+2026-02-27,Clothing,Zara,140.27
+2026-02-21,Healthcare,Dentist,94.81
+2026-01-12,Groceries,Target,67.4
+2026-02-08,Education,Online Course,51.4
+2026-01-02,Clothing,Uniqlo,197.79
+2026-01-03,Entertainment,Concert,50.86
+2026-02-25,Healthcare,Dentist,106.36
+2026-03-22,Clothing,Zara,41.0
+2026-02-28,Healthcare,Dentist,77.98
+2026-01-02,Subscriptions,Gym,5.41
+2026-01-02,Education,Online Course,106.04
+2026-02-23,Utilities,Electricity,194.6
+2026-03-28,Entertainment,Concert,44.58
+2026-01-01,Entertainment,Video Game,13.51
+2026-01-19,Groceries,Walmart,24.02
+2026-01-02,Healthcare,Doctor,64.32
+2026-02-22,Transport,Lyft,12.2
+2026-02-13,Entertainment,Concert,12.1
+2026-03-31,Healthcare,Pharmacy,115.87
+2026-02-01,Healthcare,Dentist,74.19
+2026-03-11,Dining Out,Starbucks,30.25
+2026-02-01,Dining Out,Starbucks,73.01
+2026-03-09,Utilities,Water,67.42
+2026-02-24,Subscriptions,Spotify,19.34
+2026-03-16,Utilities,Water,97.1
+2026-02-25,Clothing,Uniqlo,179.35
+2026-01-17,Transport,Gas Station,32.13
+2026-02-07,Clothing,Zara,167.94
+2026-01-24,Misc,Gift,98.48
+2026-03-10,Clothing,Uniqlo,68.36
+2026-03-11,Groceries,Walmart,144.95
+2026-03-27,Clothing,Uniqlo,87.05
+2026-01-11,Utilities,Water,107.83
+2026-01-16,Entertainment,Video Game,40.63
+2026-03-14,Entertainment,Concert,58.73
+2026-02-28,Dining Out,Local Restaurant,20.79
+2026-03-11,Transport,Lyft,29.92
+2026-03-21,Transport,Lyft,29.38
+2026-01-03,Groceries,Target,119.05
+2026-01-20,Utilities,Water,175.05
+2026-02-28,Dining Out,McDonalds,40.83
+2026-02-05,Misc,Donation,33.72
+2026-01-19,Transport,Uber,16.67
+2026-03-31,Entertainment,Movie,27.52
+2026-03-08,Clothing,Zara,25.66
+2026-01-19,Clothing,H&M,78.35
+2026-01-20,Dining Out,Local Restaurant,28.92
+2026-03-12,Utilities,Water,194.96
+2026-02-21,Utilities,Electricity,133.66
+2026-02-02,Subscriptions,Spotify,10.21
+2026-02-09,Education,Online Course,120.29
+2026-02-08,Transport,Lyft,11.26
+2026-03-23,Utilities,Electricity,116.61
+2026-01-01,Entertainment,Video Game,66.36
+2026-01-11,Dining Out,Local Restaurant,44.22
+2026-02-26,Misc,Gift,43.17
+2026-03-30,Subscriptions,Spotify,19.91
+2026-02-19,Healthcare,Pharmacy,133.24
+2026-01-23,Groceries,Walmart,101.04
+2026-01-31,Misc,Gift,59.09
+2026-02-11,Healthcare,Doctor,96.89
+2026-01-07,Clothing,H&M,52.24
+2026-01-16,Groceries,Target,71.37
+2026-03-31,Transport,Uber,6.78
+2026-03-01,Entertainment,Video Game,52.8
+2026-01-02,Groceries,Walmart,90.59
+2026-01-01,Education,Books,53.27
+2026-02-17,Healthcare,Dentist,144.96
+2026-01-12,Transport,Lyft,45.93
+2026-03-10,Education,Online Course,147.21
+2026-02-06,Clothing,H&M,113.68
+2026-02-01,Education,Supplies,175.29
+2026-01-09,Subscriptions,Spotify,6.96
+2026-01-19,Subscriptions,Netflix,16.86
+2026-02-17,Dining Out,Local Restaurant,18.74
+2026-03-21,Misc,Donation,80.45
+2026-01-03,Misc,Donation,31.2
+2026-01-20,Transport,Gas Station,44.47
+2026-01-24,Clothing,Uniqlo,189.65
+2026-02-23,Utilities,Internet,72.32
+2026-02-02,Subscriptions,Gym,11.94
+2026-01-24,Transport,Uber,49.14
+2026-03-16,Utilities,Internet,122.51
+2026-03-13,Misc,Donation,87.04
+2026-02-05,Dining Out,Starbucks,51.21
+2026-02-07,Education,Books,81.31
+2026-03-25,Subscriptions,Spotify,9.29
+2026-03-30,Transport,Lyft,14.15
+2026-01-25,Groceries,Whole Foods,119.03
+2026-01-18,Utilities,Water,107.98
+2026-03-23,Education,Books,107.14
+2026-03-07,Subscriptions,Gym,12.38
+2026-02-23,Misc,Other,59.84
+2026-02-04,Clothing,H&M,175.13
+2026-03-21,Utilities,Internet,197.11
+2026-03-02,Misc,Other,43.72
+2026-02-10,Subscriptions,Netflix,17.41
+2026-02-02,Utilities,Internet,164.68
+2026-03-09,Education,Books,118.97
+2026-02-02,Subscriptions,Netflix,19.34
+2026-01-14,Healthcare,Doctor,38.07
+2026-01-21,Transport,Lyft,9.92
+2026-02-17,Education,Supplies,172.25
+2026-01-20,Utilities,Internet,115.87
+2026-01-08,Clothing,H&M,171.69
+2026-01-07,Misc,Other,89.84
+2026-03-08,Groceries,Walmart,28.12
+2026-01-17,Misc,Gift,88.93
+2026-02-02,Utilities,Internet,117.25
+2026-02-17,Misc,Gift,53.49
+2026-03-17,Transport,Lyft,33.2
+2026-02-28,Subscriptions,Gym,18.9
+2026-03-27,Groceries,Target,22.49
+2026-01-22,Entertainment,Video Game,52.92
+2026-01-30,Utilities,Electricity,153.16
+2026-02-07,Dining Out,Local Restaurant,60.59
+2026-02-20,Entertainment,Concert,72.33
+2026-02-23,Misc,Gift,17.77
+2026-01-08,Utilities,Internet,94.91
+2026-01-27,Healthcare,Dentist,60.22
+2026-01-27,Dining Out,Local Restaurant,66.31
+2026-01-21,Groceries,Target,56.24
+2026-01-30,Clothing,Zara,53.98
+2026-01-28,Healthcare,Dentist,144.04
+2026-03-05,Entertainment,Movie,10.8
+2026-03-10,Subscriptions,Netflix,19.97
+2026-03-02,Transport,Lyft,35.46
+2026-02-17,Clothing,H&M,168.27
+2026-01-19,Healthcare,Doctor,51.25
+2026-01-04,Subscriptions,Gym,5.21
+2026-02-04,Subscriptions,Spotify,16.07
+2026-03-05,Utilities,Water,175.12
+2026-02-18,Healthcare,Dentist,113.67
+2026-01-17,Groceries,Walmart,38.57
+2026-02-13,Misc,Donation,76.58
+2026-01-30,Dining Out,Starbucks,63.82
+2026-02-15,Dining Out,Local Restaurant,56.1
+2026-01-06,Entertainment,Movie,78.95
+2026-02-06,Entertainment,Concert,86.13
+2026-01-24,Dining Out,Local Restaurant,52.95
+2026-02-15,Groceries,Target,31.52
+2026-02-22,Transport,Gas Station,26.94
+2026-03-01,Education,Books,24.75
+2026-03-04,Misc,Gift,43.72
+2026-03-26,Transport,Uber,23.32
+2026-02-01,Utilities,Electricity,59.9
+2026-03-28,Education,Online Course,76.28
+2026-02-02,Education,Online Course,31.09
+2026-03-08,Healthcare,Pharmacy,123.15
+2026-01-18,Groceries,Walmart,143.2
+2026-01-25,Groceries,Walmart,29.4
+2026-02-23,Education,Online Course,191.47
+2026-02-27,Healthcare,Pharmacy,83.16
+2026-03-08,Misc,Gift,33.46
+2026-02-15,Education,Books,24.6
+2026-01-24,Clothing,Uniqlo,107.62
+2026-02-01,Entertainment,Movie,81.51
+2026-02-16,Entertainment,Video Game,73.64
+2026-03-27,Transport,Gas Station,7.26
+2026-01-23,Utilities,Electricity,60.94
+2026-03-07,Entertainment,Video Game,46.26
+2026-01-27,Subscriptions,Netflix,9.43
+2026-01-02,Transport,Lyft,15.46
+2026-03-31,Entertainment,Concert,35.29
+2026-01-17,Utilities,Water,170.52
+2026-02-02,Groceries,Target,140.8
+2026-01-09,Groceries,Whole Foods,72.66
+2026-02-12,Misc,Gift,91.08
+2026-02-17,Education,Books,71.08
+2026-02-08,Clothing,H&M,103.14
+2026-02-11,Groceries,Target,49.38
+2026-01-26,Healthcare,Doctor,99.67
+2026-02-19,Entertainment,Movie,98.11
+2026-01-25,Healthcare,Doctor,94.49
+2026-01-24,Utilities,Electricity,103.67
+2026-01-13,Groceries,Walmart,104.22
+2026-03-01,Clothing,H&M,37.74
+2026-01-07,Utilities,Electricity,183.3
+2026-02-26,Subscriptions,Netflix,12.55
+2026-02-05,Subscriptions,Netflix,11.74
+2026-02-14,Healthcare,Pharmacy,92.02
+2026-01-20,Education,Online Course,128.71
+2026-03-06,Transport,Uber,8.23
+2026-01-08,Education,Books,139.7
+2026-01-16,Misc,Donation,27.98
+2026-01-14,Education,Online Course,145.65
+2026-03-17,Misc,Donation,83.14
+2026-03-28,Misc,Gift,81.38
+2026-01-15,Clothing,Uniqlo,117.21
+2026-03-07,Groceries,Whole Foods,87.62
+2026-02-01,Clothing,Zara,41.43
+2026-03-28,Misc,Other,78.66
+2026-03-04,Utilities,Water,90.71
+2026-03-27,Subscriptions,Netflix,12.45
+2026-02-20,Misc,Other,32.01
+2026-01-25,Clothing,H&M,39.76
+2026-02-27,Utilities,Internet,144.43
+2026-03-04,Clothing,H&M,25.05
+2026-03-03,Education,Supplies,152.24
+2026-01-22,Entertainment,Movie,38.58
+2026-02-27,Healthcare,Pharmacy,10.02
+2026-02-27,Transport,Gas Station,28.0
+2026-03-27,Clothing,H&M,23.67
+2026-02-18,Transport,Uber,17.43
+2026-02-21,Dining Out,McDonalds,59.49
+2026-02-11,Clothing,Uniqlo,26.6
+2026-03-11,Entertainment,Video Game,85.54
+2026-01-15,Transport,Uber,5.17
+2026-02-23,Misc,Gift,28.45
+2026-03-01,Clothing,Uniqlo,152.07
+2026-01-08,Groceries,Whole Foods,61.12
+2026-02-22,Healthcare,Pharmacy,24.26
+2026-03-01,Entertainment,Movie,42.42
+2026-01-05,Transport,Uber,17.17
+2026-03-09,Entertainment,Concert,85.84
+2026-01-06,Utilities,Internet,97.0
+2026-02-16,Healthcare,Doctor,120.45
+2026-02-24,Misc,Other,89.73
+2026-02-09,Clothing,Uniqlo,95.26
+2026-02-21,Clothing,Uniqlo,183.34
+2026-01-16,Clothing,Uniqlo,84.8
+2026-01-13,Healthcare,Dentist,144.97
+2026-01-30,Groceries,Whole Foods,31.61
+2026-01-19,Dining Out,Local Restaurant,58.09
+2026-01-17,Subscriptions,Spotify,12.41
+2026-03-04,Education,Books,83.65
+2026-01-19,Transport,Uber,33.47
+2026-02-27,Groceries,Target,111.5
+2026-02-24,Misc,Donation,5.41
+2026-03-31,Transport,Lyft,12.51
+2026-03-31,Clothing,Zara,146.91
+2026-03-03,Entertainment,Video Game,69.97
+2026-01-23,Misc,Gift,96.77
+2026-01-09,Transport,Gas Station,39.25
+2026-01-12,Clothing,H&M,190.89
+2026-01-01,Transport,Uber,36.61
+2026-02-27,Entertainment,Concert,36.82
+2026-01-01,Clothing,Uniqlo,34.49
+2026-02-03,Dining Out,Starbucks,64.73
+2026-02-17,Groceries,Whole Foods,103.74
+2026-03-30,Utilities,Electricity,57.23
+2026-01-01,Education,Online Course,78.41
+2026-01-16,Healthcare,Doctor,143.95
+2026-03-02,Education,Books,105.08
+2026-03-05,Misc,Gift,46.11
+2026-03-04,Education,Books,96.96
+2026-03-10,Clothing,Zara,53.64
+2026-01-22,Dining Out,Local Restaurant,35.81
+2026-03-08,Utilities,Water,105.47
+2026-03-17,Groceries,Whole Foods,26.81
+2026-01-26,Groceries,Target,119.78
+2026-01-16,Entertainment,Concert,47.49
+2026-02-20,Healthcare,Pharmacy,125.11
+2026-03-27,Transport,Gas Station,43.27
+2026-02-26,Dining Out,Starbucks,24.84
+2026-01-29,Transport,Lyft,34.58
+2026-03-19,Utilities,Electricity,120.84
+2026-03-10,Education,Books,177.23
+2026-02-16,Groceries,Whole Foods,48.05
+2026-03-03,Utilities,Water,151.67
+2026-03-10,Education,Supplies,125.47
+2026-03-17,Groceries,Target,58.39
+2026-01-16,Education,Supplies,35.95
+2026-03-31,Healthcare,Pharmacy,101.23
+2026-03-31,Dining Out,Starbucks,61.7
+2026-02-17,Misc,Other,34.98
+2026-03-26,Utilities,Electricity,146.72
+2026-02-08,Utilities,Electricity,109.27
+2026-02-02,Subscriptions,Gym,15.7
+2026-01-23,Clothing,Zara,51.85
+2026-01-10,Healthcare,Doctor,134.63
+2026-03-10,Healthcare,Pharmacy,50.24
+2026-02-03,Transport,Lyft,21.55
+2026-02-21,Education,Online Course,21.04
+2026-01-10,Clothing,Zara,35.63
+2026-01-19,Dining Out,McDonalds,46.11
+2026-02-27,Dining Out,Local Restaurant,28.73
+2026-01-01,Healthcare,Doctor,126.97
+2026-03-10,Dining Out,McDonalds,11.03
+2026-01-04,Subscriptions,Netflix,10.69
+2026-01-16,Utilities,Internet,100.6
+2026-01-24,Entertainment,Concert,11.74
+2026-03-21,Misc,Donation,16.81
+2026-01-02,Transport,Gas Station,23.61
+2026-02-01,Education,Supplies,103.64
+2026-03-25,Misc,Gift,43.41
+2026-01-24,Education,Books,110.88
+2026-01-12,Groceries,Whole Foods,97.37
+2026-02-19,Misc,Donation,5.94
+2026-02-04,Entertainment,Movie,51.77
+2026-02-02,Healthcare,Pharmacy,144.89
+2026-02-02,Subscriptions,Spotify,12.79
+2026-03-02,Utilities,Electricity,151.63
+2026-02-20,Utilities,Water,96.78
+2026-02-12,Subscriptions,Spotify,16.61
+2026-01-12,Clothing,Zara,157.99
+2026-03-08,Groceries,Whole Foods,87.77
+2026-03-06,Education,Supplies,195.44
+2026-02-02,Entertainment,Video Game,21.3
+2026-02-09,Dining Out,Starbucks,11.19
+2026-03-15,Misc,Donation,78.17
+2026-02-12,Groceries,Whole Foods,124.93
+2026-02-13,Misc,Gift,16.42
+2026-01-29,Entertainment,Concert,33.9
+2026-01-13,Transport,Uber,5.79
+2026-01-12,Transport,Uber,18.2
+2026-02-15,Groceries,Target,120.51
+2026-01-02,Healthcare,Doctor,82.51
+2026-02-04,Entertainment,Movie,41.33
+2026-03-28,Entertainment,Movie,43.46
+2026-03-22,Subscriptions,Gym,5.02
+2026-03-31,Healthcare,Dentist,51.97
+2026-01-08,Education,Online Course,132.83
+2026-01-26,Education,Supplies,195.1
+2026-03-15,Dining Out,Local Restaurant,69.29
+2026-03-31,Utilities,Internet,53.54
+2026-02-03,Transport,Gas Station,45.44
+2026-01-07,Education,Books,158.81
+2026-03-09,Healthcare,Doctor,119.25
+2026-02-27,Entertainment,Video Game,51.22
+2026-03-16,Education,Books,85.62
+2026-01-29,Entertainment,Movie,37.26
+2026-02-05,Education,Books,22.48
+2026-03-30,Transport,Gas Station,15.27
+2026-01-21,Misc,Other,28.43
+2026-02-05,Education,Online Course,101.97
+2026-01-10,Healthcare,Dentist,114.64
+2026-03-14,Education,Supplies,100.02
+2026-01-24,Utilities,Electricity,58.68
+2026-03-05,Transport,Lyft,48.1
+2026-02-18,Healthcare,Dentist,141.98
+2026-02-05,Subscriptions,Gym,16.78
+2026-03-23,Healthcare,Pharmacy,148.79
+2026-01-24,Utilities,Electricity,131.67
+2026-01-23,Misc,Other,96.46
+2026-03-03,Transport,Lyft,8.4
+2026-02-06,Subscriptions,Spotify,10.49
+2026-01-12,Utilities,Electricity,83.81
+2026-02-24,Utilities,Electricity,79.37
+2026-01-13,Groceries,Whole Foods,38.3
+2026-01-23,Transport,Uber,33.01
+2026-03-30,Healthcare,Dentist,119.39
+2026-01-30,Entertainment,Concert,62.05
+2026-01-17,Misc,Donation,18.96
+2026-03-03,Entertainment,Video Game,83.0
+2026-03-25,Healthcare,Pharmacy,99.03
+2026-03-30,Healthcare,Doctor,64.34
+2026-03-27,Transport,Uber,35.34
+2026-01-13,Healthcare,Doctor,46.39
+2026-02-28,Groceries,Whole Foods,64.87
+2026-01-19,Subscriptions,Gym,18.76
+2026-02-18,Healthcare,Dentist,50.67
+2026-01-12,Entertainment,Concert,52.3
+2026-03-02,Healthcare,Pharmacy,134.62
+2026-01-19,Groceries,Walmart,112.0
+2026-03-17,Education,Books,21.82
+2026-01-09,Education,Online Course,37.99
+2026-03-12,Utilities,Water,51.18
+2026-01-28,Misc,Donation,64.94
+2026-03-19,Dining Out,Starbucks,41.34
+2026-02-21,Subscriptions,Spotify,7.01
+2026-03-24,Clothing,H&M,192.22
+2026-01-16,Utilities,Water,129.45
+2026-03-10,Misc,Donation,27.98
+2026-01-12,Education,Books,105.11
+2026-01-25,Entertainment,Concert,71.17
+2026-02-21,Clothing,H&M,29.1
+2026-03-26,Misc,Gift,31.1
+2026-02-22,Misc,Other,81.66
+2026-01-23,Utilities,Internet,118.95
+2026-01-16,Clothing,Uniqlo,116.12
+2026-02-26,Transport,Gas Station,24.48
+2026-02-08,Dining Out,Starbucks,13.07
+2026-02-22,Transport,Gas Station,12.46
+2026-02-11,Clothing,H&M,97.43
+2026-02-27,Transport,Lyft,14.41
+2026-02-08,Groceries,Whole Foods,26.5
+2026-01-14,Education,Books,170.29
+2026-01-05,Groceries,Target,147.56
+2026-02-04,Healthcare,Doctor,121.04
+2026-03-28,Transport,Gas Station,43.42
+2026-03-16,Healthcare,Doctor,43.88
+2026-01-18,Entertainment,Movie,96.46
+2026-03-17,Subscriptions,Spotify,7.95
+2026-01-09,Entertainment,Movie,95.63
+2026-03-15,Clothing,Zara,199.04
+2026-02-27,Misc,Other,72.61
+2026-01-17,Education,Books,196.42
+2026-01-07,Transport,Lyft,30.63
+2026-02-15,Utilities,Water,88.93
+2026-01-13,Subscriptions,Spotify,11.55
+2026-02-09,Dining Out,McDonalds,51.55
+2026-02-11,Dining Out,McDonalds,15.12
+2026-01-09,Dining Out,McDonalds,53.56
+2026-02-19,Transport,Gas Station,49.15
+2026-01-27,Dining Out,Local Restaurant,23.31
+2026-03-07,Groceries,Walmart,123.04
+2026-01-05,Subscriptions,Spotify,18.62
+2026-01-29,Groceries,Whole Foods,142.68
+2026-02-06,Misc,Gift,96.21
+2026-02-07,Subscriptions,Spotify,12.82
+2026-03-24,Groceries,Whole Foods,147.05
+2026-01-08,Subscriptions,Spotify,16.36
+2026-03-06,Misc,Donation,20.36
+2026-03-27,Healthcare,Doctor,76.77
+2026-01-17,Transport,Lyft,37.32
+2026-03-12,Transport,Gas Station,16.13
+2026-03-30,Dining Out,Local Restaurant,54.84
+2026-02-14,Entertainment,Video Game,69.99
+2026-01-04,Dining Out,McDonalds,21.39
+2026-02-05,Clothing,Uniqlo,119.54
+2026-03-11,Groceries,Target,120.31
+2026-01-31,Subscriptions,Gym,12.48
+2026-01-19,Entertainment,Concert,11.09
+2026-03-02,Misc,Gift,5.86
+2026-02-23,Clothing,Zara,81.05
+2026-02-08,Misc,Donation,92.99
+2026-03-15,Transport,Lyft,15.29
+2026-03-31,Transport,Uber,33.55
+2026-01-19,Dining Out,Local Restaurant,25.55
+2026-02-08,Groceries,Whole Foods,61.82
+2026-03-08,Entertainment,Movie,86.32
+2026-02-14,Education,Online Course,148.48
+2026-01-13,Clothing,Uniqlo,32.65
+2026-02-27,Clothing,H&M,94.31
+2026-01-20,Dining Out,Local Restaurant,12.04
+2026-03-13,Transport,Uber,26.64
+2026-03-02,Dining Out,Starbucks,56.37
+2026-02-08,Subscriptions,Gym,6.78
+2026-01-01,Entertainment,Movie,36.0
+2026-01-03,Groceries,Whole Foods,71.72
+2026-03-18,Healthcare,Dentist,138.73
+2026-03-03,Utilities,Internet,198.99
+2026-03-04,Utilities,Internet,56.74
+2026-01-25,Dining Out,McDonalds,63.27
+2026-02-25,Subscriptions,Spotify,10.58
+2026-02-02,Entertainment,Movie,45.32
+2026-02-07,Education,Books,153.31
+2026-01-06,Utilities,Electricity,187.76
+2026-02-27,Entertainment,Concert,95.58
+2026-02-13,Groceries,Whole Foods,95.03
+2026-02-14,Misc,Other,38.93
+2026-02-01,Subscriptions,Gym,16.81
+2026-02-14,Transport,Lyft,16.3
+2026-03-02,Entertainment,Video Game,60.77
+2026-02-16,Groceries,Target,66.62
+2026-01-21,Education,Supplies,134.76
+2026-03-21,Healthcare,Dentist,43.66
+2026-03-26,Transport,Uber,13.62
+2026-03-16,Healthcare,Doctor,138.55
+2026-02-05,Education,Books,29.34
+2026-01-19,Groceries,Walmart,85.77
+2026-01-20,Utilities,Electricity,83.13
+2026-02-26,Healthcare,Doctor,15.45
+2026-01-18,Transport,Lyft,6.62
+2026-02-16,Dining Out,Local Restaurant,22.27
+2026-02-18,Clothing,H&M,175.35
+2026-01-14,Entertainment,Video Game,35.42
+2026-01-15,Utilities,Electricity,192.57
+2026-01-31,Healthcare,Doctor,91.43
+2026-01-01,Misc,Donation,46.48
+2026-02-23,Entertainment,Concert,62.21
+2026-01-03,Dining Out,McDonalds,46.17
+2026-01-16,Education,Online Course,154.17
+2026-03-28,Clothing,H&M,67.26
+2026-02-26,Groceries,Whole Foods,65.9
+2026-03-16,Dining Out,McDonalds,72.59
+2026-01-12,Dining Out,Local Restaurant,76.25
+2026-03-15,Education,Books,179.59
+2026-01-16,Subscriptions,Gym,11.29
+2026-03-13,Education,Online Course,158.27
+2026-03-17,Subscriptions,Gym,12.15
+2026-01-24,Subscriptions,Spotify,12.46
+2026-01-28,Utilities,Water,80.7
+2026-01-08,Utilities,Internet,138.67
+2026-02-05,Transport,Uber,13.38
+2026-03-31,Healthcare,Pharmacy,56.42
+2026-01-08,Healthcare,Pharmacy,129.7
+2026-02-27,Groceries,Walmart,46.92
+2026-03-01,Healthcare,Pharmacy,19.96
+2026-02-19,Utilities,Water,60.35
+2026-01-28,Transport,Uber,47.34
+2026-02-10,Transport,Lyft,27.81
+2026-03-05,Subscriptions,Spotify,11.14
+2026-01-27,Education,Online Course,164.07
+2026-03-04,Groceries,Whole Foods,128.66
+2026-01-17,Subscriptions,Gym,9.98
+2026-03-14,Education,Online Course,141.79
+2026-02-02,Healthcare,Dentist,117.96
+2026-03-25,Subscriptions,Netflix,14.82
+2026-03-18,Entertainment,Movie,23.64
+2026-01-29,Healthcare,Doctor,132.62
+2026-01-13,Education,Books,112.43
+2026-02-15,Groceries,Target,56.72
+2026-02-04,Education,Online Course,90.79
+2026-01-06,Subscriptions,Netflix,5.56
+2026-03-23,Subscriptions,Gym,6.92
+2026-03-10,Dining Out,McDonalds,63.59
+2026-02-16,Groceries,Walmart,20.0
+2026-01-25,Misc,Donation,44.57
+2026-03-07,Healthcare,Doctor,83.15
+2026-01-10,Transport,Lyft,7.46
+2026-02-25,Groceries,Target,146.5
+2026-01-30,Transport,Gas Station,15.18
+2026-01-05,Groceries,Whole Foods,59.55
+2026-02-02,Groceries,Whole Foods,59.51
+2026-03-06,Education,Online Course,53.78
+2026-01-18,Groceries,Target,20.19
+2026-02-18,Dining Out,Starbucks,61.05
+2026-01-11,Misc,Other,96.85
+2026-03-26,Subscriptions,Spotify,8.36
+2026-01-26,Clothing,H&M,137.66
+2026-03-04,Transport,Uber,38.39
+2026-03-30,Subscriptions,Spotify,17.73
+2026-03-27,Clothing,H&M,93.19
+2026-02-28,Misc,Gift,33.78
+2026-01-27,Misc,Other,35.9
+2026-02-18,Transport,Lyft,37.07
+2026-03-18,Transport,Lyft,41.76
+2026-02-02,Misc,Other,22.25
+2026-01-01,Clothing,H&M,83.62
+2026-01-21,Groceries,Walmart,137.25
+2026-02-24,Healthcare,Doctor,122.94
+2026-01-06,Entertainment,Movie,98.64
+2026-03-22,Subscriptions,Gym,16.31
+2026-03-10,Education,Supplies,84.71
+2026-01-05,Subscriptions,Spotify,13.86
+2026-01-03,Education,Supplies,135.59
+2026-02-22,Clothing,Uniqlo,29.51
+2026-01-23,Education,Online Course,113.45
+2026-02-22,Transport,Gas Station,36.92
+2026-02-06,Healthcare,Dentist,33.42
+2026-03-15,Healthcare,Dentist,119.29
+2026-03-15,Transport,Uber,31.27
+2026-03-24,Dining Out,Starbucks,76.66
+2026-01-17,Clothing,Zara,22.85
+2026-03-26,Dining Out,Starbucks,28.57
+2026-03-19,Dining Out,McDonalds,52.11
+2026-03-14,Subscriptions,Netflix,9.45
+2026-01-01,Misc,Donation,72.87
+2026-02-20,Subscriptions,Netflix,16.39
+2026-02-14,Misc,Donation,14.74
+2026-03-18,Entertainment,Movie,56.25
+2026-01-04,Education,Supplies,106.69
+2026-03-03,Misc,Other,40.08
+2026-03-06,Transport,Lyft,46.98
+2026-02-01,Subscriptions,Netflix,17.41
+2026-02-03,Clothing,H&M,143.98
+2026-03-13,Education,Supplies,145.72
+2026-02-08,Entertainment,Video Game,51.55
+2026-01-26,Misc,Gift,92.49
+2026-02-03,Entertainment,Movie,72.51
+2026-02-23,Clothing,H&M,149.86
+2026-01-03,Dining Out,McDonalds,70.32
+2026-02-19,Healthcare,Pharmacy,48.37
+2026-01-12,Clothing,H&M,164.31
+2026-03-06,Utilities,Water,79.29
+2026-02-23,Clothing,H&M,78.89
+2026-01-05,Entertainment,Video Game,40.2
+2026-02-26,Transport,Lyft,49.03
+2026-01-17,Subscriptions,Netflix,17.85
+2026-02-16,Transport,Gas Station,36.55
+2026-01-23,Entertainment,Concert,75.44
+2026-03-20,Subscriptions,Gym,13.43
+2026-03-26,Utilities,Electricity,192.06
+2026-01-14,Healthcare,Pharmacy,79.48
+2026-03-07,Education,Books,82.3
+2026-03-16,Entertainment,Movie,24.67
+2026-02-20,Misc,Donation,79.69
+2026-02-07,Entertainment,Concert,76.1
+2026-03-05,Entertainment,Video Game,44.59
+2026-02-07,Subscriptions,Netflix,5.38
+2026-02-19,Groceries,Whole Foods,129.07
+2026-03-23,Clothing,Zara,17.11
+2026-01-30,Groceries,Walmart,111.48
+2026-03-20,Utilities,Electricity,195.54
+2026-02-20,Misc,Donation,46.58
+2026-03-04,Healthcare,Doctor,42.9
+2026-02-21,Dining Out,Starbucks,59.34
+2026-02-07,Utilities,Water,172.57
+2026-03-29,Dining Out,Starbucks,48.25
+2026-03-20,Dining Out,McDonalds,77.69
+2026-01-30,Healthcare,Doctor,17.23
+2026-02-20,Transport,Uber,27.72
+2026-03-22,Groceries,Walmart,113.4
+2026-01-05,Entertainment,Concert,87.64
+2026-01-29,Education,Online Course,44.06
+2026-01-04,Dining Out,McDonalds,66.0
+2026-01-10,Misc,Donation,57.51
+2026-02-25,Utilities,Water,109.48
+2026-01-17,Transport,Lyft,10.93
+2026-03-15,Dining Out,Local Restaurant,70.57
+2026-01-17,Transport,Uber,12.08
+2026-03-25,Transport,Gas Station,18.94
+2026-03-29,Dining Out,Starbucks,30.3
+2026-03-10,Subscriptions,Gym,18.07
+2026-02-03,Clothing,Zara,139.45
+2026-01-06,Misc,Other,80.68
+2026-02-22,Entertainment,Concert,32.54
+2026-03-07,Entertainment,Video Game,66.24
+2026-03-18,Misc,Other,59.32
+2026-02-12,Subscriptions,Gym,17.49
+2026-03-16,Entertainment,Movie,91.55
+2026-01-23,Transport,Gas Station,5.55
+2026-02-24,Healthcare,Pharmacy,104.36
+2026-03-21,Utilities,Water,57.78
+2026-03-16,Groceries,Whole Foods,91.35
+2026-01-16,Entertainment,Concert,35.89
+2026-01-08,Misc,Donation,34.14
+2026-01-04,Healthcare,Dentist,59.41
+2026-01-04,Dining Out,McDonalds,53.49
+2026-02-25,Clothing,Uniqlo,76.8
+2026-01-25,Misc,Donation,74.61
+2026-03-08,Transport,Lyft,23.2
+2026-03-08,Clothing,Uniqlo,27.65
+2026-01-27,Utilities,Electricity,167.56
+2026-02-01,Utilities,Electricity,92.86
+2026-02-19,Subscriptions,Spotify,11.49
+2026-03-02,Education,Online Course,140.23
+2026-02-20,Subscriptions,Netflix,9.99
+2026-01-19,Healthcare,Dentist,17.92
+2026-01-21,Clothing,Zara,84.18
+2026-01-05,Education,Books,189.45
+2026-03-23,Dining Out,Starbucks,54.92
+2026-02-11,Transport,Gas Station,35.22
+2026-03-02,Clothing,H&M,131.97
+2026-01-22,Subscriptions,Spotify,7.98
+2026-01-21,Groceries,Whole Foods,74.38
+2026-03-11,Education,Online Course,152.68
+2026-01-01,Education,Supplies,29.26
+2026-01-05,Transport,Gas Station,17.5
+2026-01-12,Entertainment,Movie,34.87
+2026-03-31,Utilities,Internet,114.8
+2026-02-15,Utilities,Water,197.06
+2026-02-03,Groceries,Whole Foods,28.78
+2026-02-18,Healthcare,Dentist,82.62
+2026-03-19,Healthcare,Pharmacy,35.11
+2026-03-31,Dining Out,Local Restaurant,77.95
+2026-02-14,Clothing,Uniqlo,35.96
+2026-01-27,Misc,Donation,43.34
+2026-03-14,Entertainment,Movie,76.41
+2026-01-26,Subscriptions,Netflix,15.57
+2026-02-16,Misc,Gift,45.16
+2026-03-27,Misc,Other,37.92
+2026-02-25,Education,Books,85.55
+2026-03-04,Groceries,Whole Foods,54.36
+2026-02-17,Utilities,Internet,80.8
+2026-03-02,Dining Out,Starbucks,43.81
+2026-03-22,Healthcare,Doctor,47.59
+2026-01-26,Groceries,Target,57.37
+2026-02-05,Education,Online Course,134.78
+2026-01-01,Subscriptions,Spotify,19.53
+2026-01-08,Dining Out,Local Restaurant,52.25
+2026-02-21,Education,Supplies,24.63
+2026-03-20,Utilities,Electricity,61.34
+2026-02-16,Utilities,Internet,192.71
+2026-02-25,Utilities,Internet,94.59
+2026-03-27,Groceries,Target,31.97
+2026-01-14,Groceries,Whole Foods,97.88
+2026-03-31,Healthcare,Doctor,97.31
+2026-01-28,Healthcare,Pharmacy,100.79
+2026-03-28,Subscriptions,Netflix,9.01
+2026-03-19,Dining Out,Local Restaurant,11.06
+2026-03-29,Transport,Uber,48.43
+2026-01-02,Transport,Gas Station,16.29
+2026-01-26,Education,Books,138.44
+2026-01-14,Utilities,Water,155.99
+2026-02-28,Dining Out,Starbucks,52.7
+2026-02-25,Misc,Donation,34.73
+2026-01-07,Groceries,Target,55.24
+2026-01-03,Clothing,Uniqlo,125.57
+2026-01-23,Entertainment,Movie,87.95
+2026-01-18,Subscriptions,Gym,19.2
+2026-02-07,Utilities,Water,65.89
+2026-01-15,Utilities,Internet,73.22
+2026-03-05,Utilities,Electricity,191.71
+2026-03-30,Groceries,Whole Foods,115.75
+2026-01-28,Groceries,Walmart,134.79
+2026-03-15,Entertainment,Video Game,28.24
+2026-02-08,Misc,Gift,60.82
+2026-02-26,Dining Out,McDonalds,59.08
+2026-01-17,Utilities,Water,152.02
+2026-03-27,Transport,Uber,23.37
+2026-03-31,Healthcare,Doctor,12.16
+2026-02-13,Transport,Lyft,31.23
+2026-01-25,Education,Online Course,58.09
+2026-01-17,Transport,Gas Station,25.26
+2026-01-13,Education,Supplies,191.94
+2026-03-25,Clothing,Uniqlo,88.82
+2026-01-25,Healthcare,Dentist,127.57
+2026-03-09,Transport,Uber,13.48
+2026-01-10,Clothing,H&M,139.41
+2026-03-08,Subscriptions,Gym,19.66
+2026-01-18,Dining Out,McDonalds,17.13
+2026-03-27,Clothing,H&M,16.54
+2026-02-03,Dining Out,Starbucks,40.35
+2026-01-08,Transport,Lyft,9.17
+2026-02-09,Misc,Donation,76.1
+2026-03-24,Clothing,Zara,184.19
+2026-02-11,Healthcare,Pharmacy,70.76
+2026-02-10,Transport,Gas Station,16.64
+2026-01-06,Utilities,Electricity,115.16
+2026-02-21,Groceries,Walmart,114.05
+2026-01-26,Clothing,H&M,16.68
+2026-03-05,Healthcare,Doctor,92.52
+2026-02-28,Subscriptions,Spotify,14.2
+2026-02-25,Utilities,Water,145.65
+2026-02-28,Subscriptions,Gym,8.63
+2026-03-11,Transport,Uber,37.13
+2026-02-02,Groceries,Whole Foods,31.88
+2026-02-22,Clothing,Zara,51.87
+2026-01-22,Clothing,Uniqlo,177.33
+2026-01-21,Misc,Gift,75.18
+2026-03-11,Misc,Gift,6.31
+2026-03-11,Transport,Lyft,16.18
+2026-01-04,Transport,Lyft,14.65
+2026-03-16,Groceries,Whole Foods,55.2
+2026-03-03,Misc,Donation,28.52
+2026-03-03,Healthcare,Doctor,18.75
+2026-01-24,Healthcare,Pharmacy,74.25
+2026-02-24,Groceries,Target,115.26
+2026-01-09,Healthcare,Doctor,94.94
+2026-01-03,Education,Books,137.85
+2026-01-31,Dining Out,McDonalds,15.68
+2026-02-09,Groceries,Whole Foods,143.69
+2026-02-05,Groceries,Target,129.0
+2026-01-24,Entertainment,Movie,82.46
+2026-01-06,Utilities,Internet,173.45
+2026-03-07,Utilities,Internet,189.91
+2026-03-25,Education,Online Course,113.41
+2026-03-16,Misc,Donation,24.03
+2026-01-04,Transport,Gas Station,32.76
+2026-03-20,Transport,Uber,38.43
+2026-01-06,Subscriptions,Gym,16.07
+2026-02-20,Education,Online Course,109.08
+2026-03-03,Groceries,Walmart,28.9
+2026-02-26,Education,Books,80.51
+2026-03-07,Education,Supplies,184.95
+2026-03-20,Education,Online Course,121.05
+2026-03-16,Utilities,Internet,130.75
+2026-01-08,Education,Supplies,61.08
+2026-01-26,Dining Out,Local Restaurant,35.79
+2026-02-20,Transport,Uber,45.29
+2026-02-14,Subscriptions,Netflix,15.0
+2026-02-13,Dining Out,Starbucks,65.12
+2026-01-05,Subscriptions,Spotify,11.82
+2026-03-11,Entertainment,Video Game,66.72
+2026-01-26,Subscriptions,Gym,8.73
+2026-03-09,Transport,Gas Station,36.75
+2026-01-19,Transport,Lyft,24.24
+2026-03-25,Education,Books,94.08
+2026-01-20,Clothing,H&M,135.12
+2026-01-12,Entertainment,Video Game,94.27
+2026-02-16,Groceries,Whole Foods,28.32
+2026-01-01,Healthcare,Dentist,125.46
+2026-03-31,Subscriptions,Gym,9.39
+2026-01-14,Clothing,Zara,97.13
+2026-03-05,Education,Books,14.16
+2026-02-07,Utilities,Internet,95.16
+2026-02-06,Groceries,Target,85.34
+2026-01-11,Misc,Other,10.34
+2026-03-18,Clothing,Uniqlo,105.85
+2026-01-03,Utilities,Electricity,189.07
+2026-02-02,Entertainment,Video Game,19.49
+2026-01-06,Education,Books,155.24
+2026-02-19,Groceries,Walmart,73.26
+2026-01-10,Groceries,Walmart,105.17
+2026-01-05,Groceries,Target,53.83
+2026-01-23,Entertainment,Concert,24.35
+2026-01-10,Subscriptions,Netflix,7.41
+2026-02-13,Misc,Other,11.7
+2026-01-02,Entertainment,Movie,26.71
+2026-01-13,Healthcare,Dentist,102.99
+2026-02-09,Misc,Gift,88.76
+2026-01-02,Transport,Gas Station,41.64
+2026-03-25,Education,Online Course,140.18
+2026-03-06,Entertainment,Video Game,19.94
+2026-03-04,Utilities,Electricity,93.38
+2026-03-14,Misc,Donation,34.43
+2026-01-17,Healthcare,Dentist,44.99
+2026-01-09,Transport,Gas Station,28.18
+2026-03-16,Subscriptions,Gym,13.03
+2026-01-15,Utilities,Internet,103.53
+2026-01-24,Misc,Other,38.61
+2026-02-07,Education,Online Course,167.43
+2026-02-04,Utilities,Water,168.39
+2026-02-18,Transport,Lyft,18.85
+2026-03-10,Utilities,Water,187.07
+2026-03-03,Dining Out,McDonalds,76.7
+2026-03-01,Clothing,Zara,75.45
+2026-02-19,Subscriptions,Gym,10.32
+2026-03-19,Transport,Gas Station,27.75
+2026-03-16,Utilities,Water,191.17
+2026-01-09,Clothing,Uniqlo,177.12
+2026-02-03,Clothing,Zara,33.98
+2026-03-17,Utilities,Internet,108.91
+2026-02-04,Education,Books,115.14
+2026-01-01,Dining Out,McDonalds,45.22
+2026-02-09,Entertainment,Concert,27.45
+2026-03-05,Dining Out,Starbucks,70.12
+2026-01-22,Utilities,Water,151.54
+2026-03-01,Subscriptions,Gym,17.57
+2026-03-05,Entertainment,Concert,87.29
+2026-03-13,Transport,Uber,38.68
