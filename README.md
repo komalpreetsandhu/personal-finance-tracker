@@ -1,36 +1,33 @@
-💰 #Personal Finance Tracker
-##Project Overview
+💰 Personal Finance Tracker
+📌 Project Overview
 
-The Personal Finance Tracker is a Python-based project designed to help users analyze and understand their spending habits. By processing transaction data, identifying trends, and visualizing insights, this project empowers users to make informed financial decisions, improve budgeting, and increase savings.
+The Personal Finance Tracker is a Python-based project that helps users analyze their spending habits. It processes transaction data, identifies trends, and provides actionable insights to improve budgeting and increase savings.
 
-🛠 ##Tools & Technologies
+The goal is to empower users to understand their financial behavior and make informed decisions.
+
+🛠 Tools & Technologies
 
 Python – Core programming language
 
-pandas & numpy – Data manipulation and analysis
+pandas & numpy – Data manipulation & analysis
 
 matplotlib & seaborn – Data visualization
 
-📊## Dataset
+📊 Dataset
 
-The project uses a dataset of 1,000 financial transactions with the following columns:
+The dataset contains 1,000 financial transactions with the following columns:
 
 Column	Description
-
-Date       -   Transaction date
-
-Category    -  Spending category
-
-Description	- Merchant or item
-
-Amount	    - Expense in USD
-
-📝 ##Project Steps
-1. ###Data Loading
+Date	Transaction date
+Category	Spending category
+Description	Merchant or item
+Amount	Expense in USD
+📝 Project Steps
+1️⃣ Data Loading
 
 Imported transaction data into Python using pandas.
 
-2.### Data Cleaning
+2️⃣ Data Cleaning
 
 Converted Date column to datetime format.
 
@@ -40,17 +37,17 @@ Removed duplicate transactions.
 
 Filled missing Category values with "Other".
 
-3. ###Data Transformation
+3️⃣ Data Transformation
 
 Created a Month column to analyze spending trends over time.
 
-4. ###Pivot Table Analysis
+4️⃣ Pivot Table Analysis
 
 Summarized spending by Category and Month using pivot tables.
 
-5. ###Data Visualization
+5️⃣ Data Visualization
 
-Created visualizations to explore financial patterns:
+Visualized spending patterns using:
 
 Monthly Spending by Category
 
@@ -58,29 +55,29 @@ Category Distribution
 
 Spending Trends Over Time
 
-6. ###Insights & Findings
+6️⃣ Insights & Findings
 
 Utilities and Education accounted for the highest expenses.
 
-Dining Out and Entertainment had frequent, smaller transactions.
+Dining Out and Entertainment had frequent smaller transactions.
 
 Spending patterns varied across different months.
 
-7.### Savings Recommendations
+7️⃣ Savings Recommendations
 
 Reduce dining out expenses.
 
 Review subscription services.
 
-Set category-based monthly budgets to manage spending effectively.
+Set category-based monthly budgets.
 
-📈## Example Visualization
+📈 Example Visualization
 
 This chart illustrates monthly spending trends by category, highlighting areas with higher expenses.
 
 ![Monthly Spending Chart](images/monthly_category_line.png)
 
-💡 ##Key Skills Demonstrated
+💡 Key Skills Demonstrated
 
 Data Cleaning & Transformation
 
@@ -92,9 +89,16 @@ Financial Trend Analysis
 
 Budgeting & Spending Insights
 
-👤 ##Author
+👤 Author
 
 Komalpreet Kaur Sandhu
+
+
+
+
+
+
+
 
 
 
