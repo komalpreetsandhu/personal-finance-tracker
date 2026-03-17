@@ -87,7 +87,7 @@ The goal is to empower users to <strong>understand their financial behavior</str
 
 <h2 style="font-size:40px; font-weight:bold;">📈 Example Visualization</h2>
 <p style="font-size:20px; font-weight:bold;">This chart illustrates monthly spending trends by category, highlighting areas with higher expenses.</p>
-![Monthly Spending Chart](images/monthly_category_line.png)
+<img src="images/monthly_category_line.png" alt="Monthly Spending Chart" width="800" style="border:2px solid black;"/>
 
 ---
 
