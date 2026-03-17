@@ -28,8 +28,8 @@ The dataset contains 1,000 financial transactions including:
 6. **Insights & Savings Recommendations** – Identify trends and suggest areas to save
 
 ## Example Visualizations
-![Monthly Spending Chart](images/monthly_spending_Trend_By_category.png)
-[Monthly Category Amount](images/monthly_category_amount.png.png)
+![Monthly Spending Chart](images/monthly_category_line.png)
+
 
 
 ## Key Skills Demonstrated
